@@ -62,7 +62,7 @@ const Portfolio = () => {
                 Architect and develop reusable and modular UI components using
                 React.js. Decompose complex user interfaces into smaller,
                 manageable components for improved maintainability and
-                scalability.Utilize React's component lifecycle methods and
+                scalability.Utilize React&apos;s component lifecycle methods and
                 hooks to manage state, handle user interactions, and update the
                 UI dynamically
               </div>
@@ -170,7 +170,7 @@ const Portfolio = () => {
                 Architect and develop reusable and modular UI components using
                 React.js. Decompose complex user interfaces into smaller,
                 manageable components for improved maintainability and
-                scalability.Utilize React's component lifecycle methods and
+                scalability.Utilize React&apos;s component lifecycle methods and
                 hooks to manage state, handle user interactions, and update the
                 UI dynamically
               </div>

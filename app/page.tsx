@@ -30,8 +30,8 @@ export default function Home() {
             specialize in crafting dynamic, user-centric applications that
             captivate and engage. Explore my projects to witness seamless UI/UX
             designs, optimized performance, and innovative solutions tailored to
-            diverse client needs. Let's collaborate to bring your next digital
-            vision to life!
+            diverse client needs. Let&apos;s collaborate to bring your next
+            digital vision to life!
           </p>
           <div className="flex  w-full justify-start gap-4">
             <button className="p-4 rounded-lg ring-1 ring-black bg-black text-white cursor-pointer">
