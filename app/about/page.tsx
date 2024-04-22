@@ -38,7 +38,7 @@ const About = () => {
               as a seasoned React.js developer.
             </p>
             <p className="text-sm font-bold italic">
-              " If it doesn&apos;t challenge YOU, It won&apos;t change YOU."
+              If it doesn&apos;t challenge YOU, It won&apos;t change YOU.
             </p>
             <div className="self-end">
               <motion.svg
